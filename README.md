@@ -1,4 +1,4 @@
-Mithra21827<h1 align="Left">
+<h1 align="Left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=false&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Mithra+K;" />
 </h1>
 
