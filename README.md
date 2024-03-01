@@ -25,7 +25,7 @@
  
 <h2 align="Left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="Left">
+<div align="Center">
     <img src="https://skillicons.dev/icons?i=py,cs,js,dotnet,html,css,react,mysql,azure,docker,bootstrap,kubernetes,figma,postman,redis,visualstudio,vscode,rabbitmq" />
 </div>
 
